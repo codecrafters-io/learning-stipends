@@ -1,5 +1,4 @@
-<h1 align="center">Learning Stipends List</h1>
-  
+
 <p align="center">
   Companies listed below offer a discretionary learning stipend for their engineers. <br/>
   The stipend can be used for any books, courses, training, etc that helps improve craftsmanship.
