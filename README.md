@@ -18,6 +18,7 @@
 | :------------------------- | :------------------------------- |:------------------- |:----------------|:------------| 
 | Brex                       | $250/qtr                         | San Francisco       | 501-1000        | [Link](https://www.brex.com/careers)|
 | Chan Zuckerberg            | $2500/yr                         | Redwood City        | 201-500         | [Link](https://chanzuckerberg.com/careers/)|
+| Clever                     | $500/yr + Unlimited Book Credits | San Francisco       | 201-500         | [Link](https://clever.com/about/careers)|
 | Cockroach Labs             | $2500/yr                         | New York            | 201-500         | [Link](https://www.cockroachlabs.com/careers/)|
 | Databricks                 | $1000/yr                         | San Francisco       | 1001-5000       | [Link](https://www.databricks.com/company/careers)|
 | Flexport                   | $1000/yr                         | San Francisco       | 1001-5000       | [Link](https://www.flexport.com/company/careers/)|
@@ -39,7 +40,6 @@
 | Stripe                     | $500/yr                          | San Francisco       | 1001-5000       | [Link](https://stripe.com/jobs)|
 | Synopsys                   | $5000/yr                         | Mountain View       | 10,001+         | [Link](https://www.synopsys.com/careers.html)|
 | Zapier                     | $2500/yr                         | San Francisco       | 501-1000        | [Link](https://zapier.com/jobs)|
-| Clever                     | $500/yr + Unlimited Book Credits | San Francisco       | 201 - 500       | [Link](https://clever.com/about/careers)|
 
 </div>
   
