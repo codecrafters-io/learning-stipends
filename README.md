@@ -39,7 +39,7 @@
 | Stripe                     | $500/yr                          | San Francisco       | 1001-5000       | [Link](https://stripe.com/jobs)|
 | Synopsys                   | $5000/yr                         | Mountain View       | 10,001+         | [Link](https://www.synopsys.com/careers.html)|
 | Zapier                     | $2500/yr                         | San Francisco       | 501-1000        | [Link](https://zapier.com/jobs)|
-| Clever                     | $500/yr + Unlimited Book Credits | San Francisco | 201 - 500 | [Link](https://clever.com/about/careers)|
+| Clever                     | $500/yr + Unlimited Book Credits | San Francisco       | 201 - 500       | [Link](https://clever.com/about/careers)|
 
 </div>
   
