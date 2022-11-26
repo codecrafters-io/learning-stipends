@@ -4,7 +4,7 @@
   The stipend can be used for any books, courses, training, etc that helps improve craftsmanship.
 </p>
 
-![Banner](https://codecrafters.io/landing/images/byox-banner.gif)
+![Banner](https://codecrafters.io/landing/images/learning-stipend-banner.gif)
 
 <p align="center">
   <i>For the best return on your money, pour your purse into your head — Benjamin Franklin</i>
