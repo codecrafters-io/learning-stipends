@@ -29,7 +29,7 @@
 | Mercury                    | $1000/yr                         | San Francisco       | 201-500         | [Link](https://mercury.com/jobs)|
 | Mixpanel                   | $500/yr                          | San Francisco       | 201-500         | [Link](https://mixpanel.com/jobs/)|
 | Mr Yum                     | AU$1000/yr                       | Victoria, AU        | 201-500         | [Link](https://www.mryum.com/careers)|
-| MYR                        | 5000/yr. 6 month bond.           | Henderson           | 5,001-10,000    | [Link](https://careers.myrgroup.com/jobs)|
+| MYR                        | $5000/yr. 6 month bond.          | Henderson           | 5,001-10,000    | [Link](https://careers.myrgroup.com/jobs)|
 | Notion                     | $150/mo                          | San Francisco       | 201-500         | [Link](https://www.notion.so/careers)|
 | Plaid                      | $2000/yr                         | San Francisco       | 501-1000        | [Link](https://plaid.com/careers/)|
 | Ramp                       | $600/yr                          | New York            | 201-500         | [Link](https://ramp.com/careers)|
