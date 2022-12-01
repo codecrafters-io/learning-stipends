@@ -39,6 +39,7 @@
 | Stack Overflow             | $2500/yr                         | New York            | 501-1000        | [Link](https://stackoverflow.co/company/careers)|
 | Stripe                     | $500/yr                          | San Francisco       | 1001-5000       | [Link](https://stripe.com/jobs)|
 | Synopsys                   | $5000/yr                         | Mountain View       | 10,001+         | [Link](https://www.synopsys.com/careers.html)|
+| Tranglo                    | RM5000/yr 6 month bond.          | Henderson           | 5,001-10,000    | [Link](https://tranglo.com/career/)|
 | Zapier                     | $2500/yr                         | San Francisco       | 501-1000        | [Link](https://zapier.com/jobs)|
 
 </div>
