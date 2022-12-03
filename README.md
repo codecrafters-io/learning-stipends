@@ -16,7 +16,7 @@
 
 | **Company Name**           | **Budget**                              | **Headquarters**    | **Employees**   | **Careers** |
 | :------------------------- | :-------------------------------------- |:------------------- |:----------------|:------------| 
-| Academia                   | $2000/yr + 2d time off + $100 for books | San Francisco       | 51-200.         | [Link](https://www.academia.edu/hiring)|
+| Academia                   | $2000/yr + 2d time off + $100 for books | San Francisco       | 51-200          | [Link](https://www.academia.edu/hiring)|
 | Brex                       | $250/qtr                                | San Francisco       | 501-1000        | [Link](https://www.brex.com/careers)|
 | Chan Zuckerberg            | $2500/yr                                | Redwood City        | 201-500         | [Link](https://chanzuckerberg.com/careers/)|
 | Clever                     | $500/yr + Unlimited Book Credits        | San Francisco       | 201-500         | [Link](https://clever.com/about/careers)|
@@ -40,7 +40,8 @@
 | Stack Overflow             | $2500/yr                                | New York            | 501-1000        | [Link](https://stackoverflow.co/company/careers)|
 | Stripe                     | $500/yr                                 | San Francisco       | 1001-5000       | [Link](https://stripe.com/jobs)|
 | Synopsys                   | $5000/yr                                | Mountain View       | 10,001+         | [Link](https://www.synopsys.com/careers.html)|
-| Way2B1                     | $2500/yr                                | San Francisco       | 11-50.          | [Link](https://www.way2b1.com/team#positions)|
+| Tranglo                    | RM5000/yr 6 month bond                  | Kuala Lumpur        | 51-200          | [Link](https://tranglo.com/career/)|
+| Way2B1                     | $2500/yr                                | San Francisco       | 11-50           | [Link](https://www.way2b1.com/team#positions)|
 | Zapier                     | $2500/yr                                | San Francisco       | 501-1000        | [Link](https://zapier.com/jobs)|
 
 </div>
