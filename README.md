@@ -37,6 +37,7 @@
 | Relativity Space           | $2000/yr                                | Long Beach          | 201-500         | [Link](https://www.relativityspace.com/careers)|
 | Shortcut                   | $2000/yr                                | New York            | 51-200          | [Link](https://careers.shortcut.io/jobs)|
 | Sourcegraph                | $1000/yr                                | San Francisco       | 51-200          | [Link](https://about.sourcegraph.com/jobs)|
+| SoundCloud                 | $1300 or €1000 or £900/yr               | Berlin, Germany     | 501-1000        | [Link](https://careers.soundcloud.com/)|
 | Stack Overflow             | $2500/yr                                | New York            | 501-1000        | [Link](https://stackoverflow.co/company/careers)|
 | Stripe                     | $500/yr                                 | San Francisco       | 1001-5000       | [Link](https://stripe.com/jobs)|
 | Synopsys                   | $5000/yr                                | Mountain View       | 10,001+         | [Link](https://www.synopsys.com/careers.html)|
