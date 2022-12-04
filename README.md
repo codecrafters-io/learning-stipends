@@ -28,6 +28,7 @@
 | Jobandtalent               | €1000/yr                                | Madrid              | 1001-5000       | [Link](https://www.jobandtalent.com/join-us)|
 | Lattice                    | $5000/yr                                | San Francisco       | 501-1000        | [Link](https://lattice.com/careers)|
 | Lob                        | $1000/yr                                | San Francisco       | 201-500         | [Link](https://www.lob.com/careers)|
+| Lykon                      | €1000/yr                                | Remote Europe       | 51-200          | [Link](https://careers.lykon.com/)|
 | Mercury                    | $1000/yr                                | San Francisco       | 201-500         | [Link](https://mercury.com/jobs)|
 | Mixpanel                   | $500/yr                                 | San Francisco       | 201-500         | [Link](https://mixpanel.com/jobs/)|
 | Mr Yum                     | AU$1000/yr                              | Victoria, AU        | 201-500         | [Link](https://www.mryum.com/careers)|
