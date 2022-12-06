@@ -23,7 +23,7 @@
 | Cockroach Labs             | $2500/yr                                | New York            | 201-500         | [Link](https://www.cockroachlabs.com/careers/)|
 | Databricks                 | $1000/yr                                | San Francisco       | 1001-5000       | [Link](https://www.databricks.com/company/careers)|
 | Flexport                   | $1000/yr                                | San Francisco       | 1001-5000       | [Link](https://www.flexport.com/company/careers/)|
-| GitHub                     | $2500/yr                                | San Francisco       | 501-1000        | [Link](https://github.com/about/careers)|
+| GitHub                     | $2000/yr                                | San Francisco       | 1001-5000       | [Link](https://github.com/about/careers)|
 | Gruntwork                  | $1000/mo                                | USA (100% Remote)   | 11 - 50         | [Link](https://gruntwork.io/careers)|
 | Jobandtalent               | €1000/yr                                | Madrid              | 1001-5000       | [Link](https://www.jobandtalent.com/join-us)|
 | Lattice                    | $5000/yr                                | San Francisco       | 501-1000        | [Link](https://lattice.com/careers)|
