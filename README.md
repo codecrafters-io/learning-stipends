@@ -55,9 +55,7 @@
 <p align="center">
   Does your company offer a learning stipend? <br/><br/>
   Please submit a PR, and email us from your work email. <br/>
+  <strong>hello@codecrafters.io</strong><br/>
   That will help us verify and add your company to the list. <br/>
-  <strong>hello@codecrafters.io</strong>
-  <br/><br/>
-  Alternately, fill out <a href="https://codecrafters.typeform.com/stipend" target="_blank">this form</a>. 
 </p>
 
