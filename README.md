@@ -18,7 +18,8 @@
 | :------------------------- | :-------------------------------------- |:------------------- |:----------------|:------------| 
 | Academia                   | $2000/yr + 2d time off + $100 for books | San Francisco       | 51-200          | [Link](https://www.academia.edu/hiring)|
 | Attentive                  | $500/yr                                 | New York            | 1001-5000       | [Link](https://www.attentive.com/careers)|
-| Brex                       | $250/qtr                                | San Francisco       | 501-1000        | [Link](https://www.brex.com/careers)|
+| Brex                       | $250/qtr                                | San Francisco       | 501-1000        | [Link](https://journey.buffer.com/)|
+| Buffer                     | $800/yr                                 | 100% Remote         | 51-200          | [Link](https://www.brex.com/careers)|
 | Chan Zuckerberg            | $2500/yr                                | Redwood City        | 201-500         | [Link](https://chanzuckerberg.com/careers/)|
 | Clever                     | $1000/yr                                | San Francisco       | 201-500         | [Link](https://clever.com/about/careers)|
 | Cockroach Labs             | $2500/yr                                | New York            | 201-500         | [Link](https://www.cockroachlabs.com/careers/)|
