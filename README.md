@@ -24,6 +24,7 @@
 | Chan Zuckerberg            | $2500/yr                                | Redwood City        | 201-500         | [Link](https://chanzuckerberg.com/careers/)|
 | Clever                     | $1000/yr                                | San Francisco       | 201-500         | [Link](https://clever.com/about/careers)|
 | Cockroach Labs             | $2500/yr                                | New York            | 201-500         | [Link](https://www.cockroachlabs.com/careers/)|
+| Credit Karma               | $5000/yr                                | Oakland             | 1001-5000       | [Link](https://www.creditkarma.com/careers)|
 | Databricks                 | $1000/yr                                | San Francisco       | 1001-5000       | [Link](https://www.databricks.com/company/careers)|
 | Flexport                   | $1000/yr                                | San Francisco       | 1001-5000       | [Link](https://www.flexport.com/company/careers/)|
 | Gecko Robotics             | $2000/yr                                | Pittsburgh          | 201-500         | [Link](https://www.geckorobotics.com/careers)|
