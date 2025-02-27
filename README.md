@@ -53,7 +53,7 @@
 | Tranglo                    | RM5000/yr 6 month bond                  | Kuala Lumpur        | 51-200          | [Link](https://tranglo.com/career/)|
 | Way2B1                     | $2500/yr                                | San Francisco       | 11-50           | [Link](https://www.way2b1.com/team#positions)|
 | Zapier                     | $2500/yr                                | San Francisco       | 501-1000        | [Link](https://zapier.com/jobs)|
-
+| Elvex                      | $2k refreshed every 4 years             | USA (100% Remote)   | 11 - 50         | [Link](https://careers.elvex.ai/jobs)|
 </div>
   
 <h3 align="center">Contribute</h3>
